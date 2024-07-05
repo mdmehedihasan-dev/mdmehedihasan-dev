@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmehedihasanmr&label=Profile%20views&color=0e75b6&style=flat" alt="mdmehedihasanmr" /> </p>
 
-- 🌱 I’m currently learning **Next.js & MongoDB**
+<----- 🌱 I’m currently learning **Next.js & MongoDB** ----/>
 
 - 📝 I regularly write articles on [https://medium.com/@mdmehedihasanm](https://medium.com/@mdmehedihasanm)
 
