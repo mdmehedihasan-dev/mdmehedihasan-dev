@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Mehedi Hasan</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
-<p align="center">
+<p align="left">
   🚀 I am a focused MERN Stack Developer with a strong foundation in React, Next.js, and modern UI/UX principles. I enjoy building responsive, dynamic, and high-performance web applications. Passionate about learning new technologies, contributing to open-source projects, and improving user experience.
 </p>
 
