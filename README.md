@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
 <p align="left">
-  🚀 I am a focused MERN Stack Developer with a strong foundation in React, Next.js, and modern UI/UX principles. I enjoy building responsive, dynamic, and high-performance web applications. Passionate about learning new technologies, contributing to open-source projects, and improving user experience.
+  🚀 I am a dedicated and detail-oriented MERN Stack Developer with a strong foundation in React, Next.js, and modern UI/UX principles. I have a passion for building scalable, interactive, and high-performance web applications with a strong focus on responsiveness, accessibility, and user experience. I enjoy translating complex ideas into functional, elegant, and visually appealing digital solutions.
 </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
@@ -11,10 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=mdmehedihasanmr&label=Profile%20views&color=0e75b6&style=flat" alt="mdmehedihasanmr" /> 
 </p>
 
-- 🌱 Currently exploring **Next.js, Raw Node Js & Advanced UI Animations**
+- 🌱 Currently exploring **Next.js, Raw Node.js & Advanced UI Animations**
 - 👨‍💻 Check out my projects on **[GitHub](https://github.com/mdmehedihasan-dev)**
 - 📫 Reach me at **mdmehedihasandev0@gmail.com**
 - 📄 Know more about my work: **[Portfolio](https://mehedi-one.vercel.app/)**
+
+### 🔥 My Expertise:
+- **Frontend Development:** React.js, Next.js, Redux Toolkit, Tailwind CSS, and Framer Motion for smooth animations and dynamic UI interactions.
+- **Backend Development:** Node.js, Express.js, and MongoDB to build RESTful APIs and scalable backend solutions.
+- **Full-Stack Development:** Integrating modern authentication (JWT, Firebase), state management, and real-time data handling.
+- **Performance Optimization:** Writing efficient, reusable code to improve site speed, SEO, and scalability.
+
+I am constantly learning and experimenting with new technologies to stay up to date with the latest industry trends. I also enjoy contributing to **collaborating with developers, and sharing knowledge through blog writing on Medium**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
