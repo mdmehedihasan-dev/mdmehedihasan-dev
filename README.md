@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=mdmehedihasanmr&label=Profile%20views&color=0e75b6&style=flat" alt="mdmehedihasanmr" /> 
 </p>
 
-- 🌱 Currently exploring **Next.js, Raw Node.js & Advanced UI Animations**
+- 🌱 Currently exploring **Raw Node.js & Advanced UI Animations**
 - 👨‍💻 Check out my projects on **[GitHub](https://github.com/mdmehedihasan-dev)**
 - 📫 Reach me at **mdmehedihasandev0@gmail.com**
 - 📄 Know more about my work: **[Portfolio](https://mehedi-one.vercel.app/)**
