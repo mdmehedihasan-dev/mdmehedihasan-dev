@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=mdmehedihasanmr&label=Profile%20views&color=0e75b6&style=flat" alt="mdmehedihasanmr" /> 
 </p>
 
-- 🌱 - 🌱 Currently exploring **Java OOP to improve problem-solving skills**
+- 🌱 Currently exploring **Java OOP to improve problem-solving skills**
 
 - 👨‍💻 Check out my projects on **[GitHub](https://github.com/mdmehedihasan-dev)**
 - 📫 Reach me at **mdmehedihasandev0@gmail.com**
