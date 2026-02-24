@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Mehedi Hasan</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">A Full-Stack Developer & DevOps Enthusiast </h3>
 
 <p align="left">
   🚀 I am a dedicated and detail-oriented full-stack developer with a strong foundation in the MERN stack, NestJS, PostgreSQL, and modern UI/UX principles. I have a passion for building scalable, interactive, and high-performance web applications with a strong focus on responsiveness, accessibility, and user experience. I enjoy translating complex ideas into functional, elegant, and visually appealing digital solutions.
