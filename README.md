@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=MD%20Mehedi%20Hasan&fontSize=40&fontColor=000000&animation=fadeIn" />
 </div>
-
-<br />
-
+<br/>
 <div align="center"> 
 <a href="https://mehedi-one.vercel.app/">Portfolio</a> •
 <a href="https://linkedin.com/in/mdmehedihasanmr">LinkedIn</a> •
