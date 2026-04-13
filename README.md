@@ -79,9 +79,7 @@ My core strengths include:
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdmehedihasan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdmehedihasan-dev&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Mehedi's Top Languages" />
 </div>
 
 <br />
