@@ -70,5 +70,11 @@ Currently, I am at **Spark Tech Agency**, where I focus on:
 <br />
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmehedihasan-dev&theme=tokyo-night&hide_border=true" alt="Mehedi's Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
 <p>© 2026 MD Mehedi Hasan • Based in Dhaka, Bangladesh 🇧🇩</p>
 </div>
