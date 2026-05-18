@@ -64,14 +64,14 @@ Currently, I am at **Spark Tech Agency**, where I focus on:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdmehedihasan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" alt="Mehedi's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmehedihasan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Mehedi's Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mdmehedihasan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" alt="Mehedi's GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmehedihasan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Mehedi's Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=mdmehedihasan-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mehedi's Commit Streak" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=mdmehedihasan-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mehedi's Commit Streak" />
 </div>
 
 <br/>
@@ -84,19 +84,19 @@ Currently, I am at **Spark Tech Agency**, where I focus on:
 <br/>
 
 <div align="center">
-  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmehedihasan-dev&theme=tokyonight" height="180em" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmehedihasan-dev&theme=tokyonight" height="180em" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmehedihasan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Mehedi's Trophies" />
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=mdmehedihasan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Mehedi's Trophies" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdmehedihasan-dev&theme=tokyo-night&hide_border=true" alt="Mehedi's Activity Graph" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdmehedihasan-dev&theme=tokyo-night&hide_border=true" alt="Mehedi's Activity Graph" />
 </div>
 
 ---
