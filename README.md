@@ -3,7 +3,7 @@
 </div> 
 <br/> 
 <div align="center">  
-  <a href="https://mehedi-one.vercel.app/">Portfolio</a> • <a href="https://linkedin.com/in/mdmehedihasan-dev">LinkedIn</a> • <a href="mailto:mdmehedihasandev0@gmail.com">Email</a>  
+  <a href="https://mehedi-devops.vercel.app/">Portfolio</a> • <a href="https://linkedin.com/in/mdmehedihasan-dev">LinkedIn</a> • <a href="mailto:mdmehedihasandev0@gmail.com">Email</a>  
 </div>  
 <br />  
 <div align="center">  
